@@ -1,0 +1,96 @@
+body {
+    box-sizing: border-box;
+}
+
+header {
+    font-family: 'Quantico', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    margin-left: 8%;
+}
+
+h1 {
+    font-family: 'Quantico', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+h2 {
+    font-family: 'Rakkas', cursive;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+p, li {
+    font-family: 'Telex', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.container {
+    border: 2px solid gray;
+    margin: 1% 8%;
+    padding: 0 0.5%;
+}
+
+.color-boxes {
+    display: inline-block;
+    margin-bottom: 1%;
+    width: 24%;
+    text-align: center;
+    color: white;
+}
+
+#fuchsia {
+    background-color: #b7467c;
+}
+
+#mangenta {
+    background-color: #e7839b;
+}
+
+#indian-red {
+    background-color: #c17f71;
+}
+
+#slate-gray {
+    background-color: #d0d8da;
+}
+
+#pale-cornflower-blue {
+    background-color: #00525e;
+}
+
+.font-boxes {
+    display: inline-block;
+    margin-right: 3%;
+}
+
+.font-name {
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+.quantico-name {
+    font-family: 'Quantico', sans-serif;
+    font-weight: 400;
+}
+
+.rakkas-name {
+    font-family: 'Rakkas', cursive;
+    font-weight: 400;
+}
+
+.telex-name {
+    font-family: 'Telex', sans-serif;
+    font-weight: 400;
+}
+
+#q-bold {
+    font-weight: 700;
+}
+
+#q-italic {
+    font-weight: 400;
+    font-style: italic;
+}
